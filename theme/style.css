@@ -1,0 +1,14 @@
+  body{background-color: blue;}
+  h1{font-family: inherit;}
+    }
+
+  h2{color: crimson;
+    }
+
+  h3{background-color: yellow;
+    }
+#subheader {
+font-style: italic;
+color: red
+font-weight: 500;
+}
