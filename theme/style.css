@@ -1,5 +1,35 @@
+
   body{background-color: blue;}
-  h1{font-family: inherit;}
+  margin: 0
+.container {
+  max-width: 750px;
+  margin: 10px auto;
+  background-color: pink;
+}
+
+.navigation{
+  background-color: maroon;
+  max-width: 300px;
+}
+
+
+.header. h2 + h3 {
+  color: purple;
+}
+.content{
+  border: 2px solid pink;
+  padding: 50px;
+  margin: 50px;
+  background-color: orange;
+
+}
+
+
+.footer{
+background-color: white;
+  }
+
+  h1{font-family: inherit;
     }
 
   h2{color: crimson;
@@ -9,6 +39,8 @@
     }
 #subheader {
 font-style: italic;
-color: red
+color: red;
 font-weight: 500;
 }
+input[type="text"]{
+  background-color: purple;}
