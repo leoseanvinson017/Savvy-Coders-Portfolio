@@ -1,6 +1,6 @@
 #grid{
   display:grid;
-
+background-color: yellow
 }
 
 #grid > div {
